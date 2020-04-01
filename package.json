@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorencianodramayo/creativeChecker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lorencianodramayo/creativeChecker/issues"
+  },
+  "homepage": "https://github.com/lorencianodramayo/creativeChecker#readme"
 }
